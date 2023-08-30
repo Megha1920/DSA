@@ -11,6 +11,7 @@ public class Linear {
                 {4,7,10},
                 {3,7},
         };
+        System.out.println("hi hello");
 
         int[] arr = new int[4];
 
