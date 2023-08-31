@@ -6,6 +6,7 @@ public class Binary {
         int target=22;
         int ans = binarysearch(arr,target);
         System.out.println(ans);
+        System.out.println("testing");
     }
     static int binarysearch(int[] num,int targ){
         int start=0;
