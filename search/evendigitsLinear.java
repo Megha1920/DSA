@@ -1,6 +1,6 @@
 package search;
 
-public class evendigits {
+public class evendigitsLinear {
     public static void main(String[] args) {
         int[] num = {1,34,678,454,45};
         System.out.println((findnumbers(num)));

@@ -1,6 +1,6 @@
 package search;
 // https://leetcode.com/problems/richest-customer-wealth/
-public class maxwealth {
+public class maxwealthLinear {
     public static void main(String[] args) {
 
     }
